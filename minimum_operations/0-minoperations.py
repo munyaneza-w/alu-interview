@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """
-Minimum Operations: 
-This script defines a function minOperations to calculate
-the fewest number of operations needed to result in exactly n H characters.
+Minimum Operations:
 """
 import math
 
