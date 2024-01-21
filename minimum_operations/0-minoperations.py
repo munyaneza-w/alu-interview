@@ -8,7 +8,7 @@ import math
 def minOperations(n):
     """
     Minimum Operations:
-    Calculate the fewest number of operations needed to reach exactly n 'H' characters.
+    Calculate fewe number of operations needed to get  exactly n 'H' characters.
 
     Args:
         n (int): The target number of 'H' characters.
